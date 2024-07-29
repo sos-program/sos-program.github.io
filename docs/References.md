@@ -10,9 +10,9 @@ Crozier et al. 2019
 
 DFO 2005 
 
-DFO 2015
+DFO. 2015. [Wild salmon policy biological status assessment for conservation units of interior Fraser River Coho Salmon (*Oncorhynchus kisutch*)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf). DFO Can. Sci. Advis. Sec. Sci. Advis. Rep. 2015/022.
 
-DFO 2016
+DFO. 2016. [Integrated Biological Status of Southern British Columbia Chinook Salmon (*Oncorhynchus tshawytscha*) Under the Wild Salmon Policy](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf). DFO Can. Sci. Advis. Sec. Sci. Advis. Rep. 2016/042.
 
 DFO. 2024. [Rapid Status Approximations for Pacific Salmon Derived from Integrated Expert Assessments under Fisheries and Oceans Canada Wild Salmon Policy](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ScR-RS/2024/2024_004-eng.pdf). DFO Can. Sci. Advis. Sec. Sci. Resp. 2024/004.
 
