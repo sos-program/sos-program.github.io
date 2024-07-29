@@ -1,0 +1,58 @@
+---
+---
+@import "{{ site.theme }}";
+
+.wrapper {
+  width:1250px;
+  // left side is 270; padding is 50
+  // 1250-270-50 = 930
+  // 30px free room
+  margin:0 auto;
+}
+
+header {
+  width:300px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:870px;
+  float:right;
+  padding-bottom:50px;
+  padding-left:50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#2B5C92;
+  margin:0 0 20px;
+}
+
+h1 {
+  font-size:36px;
+  font-weight:600;
+}
+
+h2 {
+  font-size:31px;
+  font-weight:600;
+}
+
+h3 {
+  font-size:27px;
+  font-weight:500;
+}
+
+h4 {
+  font-size:23px;
+  font-weight:500;
+}
+
+h5 {
+  font-size:19px;
+  font-weight:500;
+}
+a {
+  color:#0676c7;
+}
