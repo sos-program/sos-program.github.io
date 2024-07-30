@@ -21,7 +21,7 @@ Grant, S.C.H., MacDonald, B.L., Cone, T.E., Holt, C.A., Cass, A., Porszt, E.J., 
 Grant, S.C.H., and Pestal, G. 2013. [Integrated biological status assessments under the Wild Salmon Policy using standardized metrics and expert judgement: Fraser River sockeye salmon (*Oncorhynchus nerka*) case studies](https://waves-vagues.dfo-mpo.gc.ca/Library/349637.pdf). Can. Sci. Advis. Sec. Res. Doc. 2012/106: v + 132 pp.
 
 Grant, MacDonald,and Winston. 2019. *State of the Canadian Pacific salmon: Responses to changing climate and  habitats*. Can. Tech. Rep. Fish. Aquat. Sci. 3332. ix + 50 p.
-- [Report]((https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf)
+- [Report](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf)
 - [E-book summary](https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html)
 
 Grant, S.C.H., Holt, C.A., Pestal, G., Davis, B.M., and MacDonald, B.L. 2020. [The 2017 Fraser Sockeye salmon (*Oncorhynchus nerka*) integrated biological status re-assessments under the Wild Salmon Policy using standardized metrics and expert judgement](http://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2020/2020_038-eng.pdf). Can. Sci. Advis. Sec. Res. Doc. 2020/038: vii+ 211. 
