@@ -12,10 +12,10 @@ The WSP identifies six strategies that are designed to maintain diversity and ab
 there likely will be circumstances when losses of wild salmon populations are unavoidable. Some catastrophic events are beyond human control and DFO may not be able to restore habitat or 
 spawning populations damaged by such events. Further, the rate of climate change in an area may exceed the ability of some salmon populations to adjust.
 
-DFO’s WSP Strategy 1 outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon status. 
+DFO’s WSP Strategy 1 outlines a broad approach to tracking salmon biodiversity through 'Standardized Monitoring of Wild Salmon Status'. 
 Within Strategy 1, the WSP prescribes three actions steps: 
 
-[Action Step 1.1.: Identify Conservation Units (CUs)](#action-step-11-identify-conservation-units-cus)   
+[Action Step 1.1: Identify Conservation Units (CUs)](#action-step-11-identify-conservation-units-cus)   
 [Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status](#action-step-12-develop-criteria-to-assess-cus-and-identify-benchmarks-to-represent-biological-status)   
 [Action Step 1.3: Monitor and Assess CU Status](#action-step-13-monitor-and-assess-cu-status)  
 
@@ -25,7 +25,7 @@ Within Strategy 1, the WSP prescribes three actions steps:
 
 The Conservation Unit (CU) has been identified as the fundamental unit of biodiversity in the WSP. A CU is defined as a group of wild salmon sufficiently isolated from other groups that, if lost, 
 are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) ([DFO 2005](./References)). 
-<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics.
+<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics. Although adaptive diversity of Pacific salmon occurs at a range of scales that include the species, CU, population and deme, the WSP identifies diversity at the scale of CUs as fundamental units that cannot be recolonized if lost.
 
 There are 377 current CUs defined across the five species of salmon managed by DFO in the Pacific Region ([Wade et al. 2019](./References.md)). Current is a specific CU designation. Current CUs are extant 
 (i.e. not extirpated), and are either part of the original CU list developed by <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>, or have been
