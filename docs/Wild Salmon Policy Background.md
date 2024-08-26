@@ -6,7 +6,7 @@
 
 DFO’s <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> recognizes the importance of monitoring and conserving salmon biodiversity. Greater biodiversity reduces the risk of extinction by increasing the likelihood that some populations will be able 
 to withstand changing circumstances. Salmon biodiversity can also buffer overall abundances from periods of environmental change, since some salmon traits are better adapted to different conditions than others. 
-This is called the portfolio effect; greater diversity means that more stable overall abundances can be maintained to support harvest and ecosystem function ([Schindler et al. 2010](./References.md)). 
+This is called the portfolio effect; greater diversity, in theory, means that more stable overall abundances are available to support harvest and ecosystem function ([Schindler et al. 2010](./References.md)). 
 
 The WSP identifies implementation strategies that are designed to maintain diversity and abundances of Pacific Salmon to the fullest extent possible. But the WSP also acknowledges that 
 there likely will be circumstances when losses of wild salmon populations are unavoidable. Some catastrophic events are beyond human control and DFO may not be able to restore habitat or 
