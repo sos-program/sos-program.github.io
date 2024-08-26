@@ -35,7 +35,7 @@ Revisions to the original CU list have been completed for Fraser sockeye and Sou
 
 #### Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
 
-DFO’s WSP provides a framework for status assessments in Strategy 1, Action Step 1.2. This includes a description of three status zones ranging from Red (poor status), to Amber (intermediate status), 
+DFO’s WSP provides a general approach for wild salmon status assessments in Strategy 1, Action Step 1.2. This includes a description of three status zones ranging from Red (poor status), to Amber (intermediate status), 
 and Green (good status), and general methods for assessing statuses at the CU level. A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was subsequently developed, consisting of a set of quantifiable 
 metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). 
 To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU. Metric values are calculated 
