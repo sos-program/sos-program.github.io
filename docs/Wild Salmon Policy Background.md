@@ -8,9 +8,9 @@ DFO’s <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.
 to withstand changing circumstances. Salmon biodiversity can also buffer overall abundances from periods of environmental change, since some salmon traits are better adapted to different conditions than others. 
 This is called the portfolio effect; greater diversity, in theory, means that more stable overall abundances are available to support harvest and ecosystem function ([Schindler et al. 2010](./References.md)). 
 
-The WSP identifies implementation strategies that are designed to maintain diversity and abundances of Pacific Salmon to the fullest extent possible. But the WSP also acknowledges that 
+The WSP identifies six strategies that are designed to maintain diversity and abundances of Pacific Salmon to the fullest extent possible. The intention is to prevent losses from management and use. But the WSP also acknowledges that 
 there likely will be circumstances when losses of wild salmon populations are unavoidable. Some catastrophic events are beyond human control and DFO may not be able to restore habitat or 
-spawning populations damaged by such events.
+spawning populations damaged by such events. Further, the rate of climate change in an area may exceed the ability of some salmon populations to adjust.
 
 DFO’s WSP Strategy 1 outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon status. 
 Within Strategy 1, the WSP prescribes three actions steps: 
