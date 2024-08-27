@@ -18,11 +18,11 @@ Specifically, annual tracking of Pacific salmon CU statuses will improve the abi
 
 <h3> Status Assessments for Wild Pacific Salmon </h3>
 
-DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad framework for tracking salmon biodiversity through standardized monitoring of wild salmon statuses. Over the past 15 years since the Policy was published, a [WSP status assessment approach](./WSP Approach.md) has evolved through research, application, and refinement of methods.
+DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad framework for tracking salmon biodiversity through standardized monitoring of wild salmon statuses. Over the past 15 years since the WSP was published, a [WSP status assessment approach](./WSP Approach.md) has evolved through research, application, and refinement of methods.
 
-To support status assessments, DFO developed a [status assessment toolkit](./WSP Indicators and Benchmarks.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
+To support status assessments, DFO developed a [status assessment toolkit](./WSP Indicators and Benchmarks.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). This step formed the foundation of WSP status assessments, however, a critical next step was the development of the WSP integrated status assessment approach.
 
-An integrated WSP status assessment approach was developed to provide objective and consistent expert-driven status assessments. This approach has been used to assess three groups of Pacific salmon Conservation Units (CUs) through four separate [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
+An integrated WSP status assessment approach provides objective and consistent expert-driven status assessments. It uses a structured decision-making approach, along with standardized data summary packages, and experts to assess WSP staTUS. This approach has been used to assess three groups of Pacific salmon Conservation Units (CUs) through four separate [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
 Fraser Sockeye <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349836.pdf">(2012,</a>, <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40712163.pdf">2017)</a>, 
 Interior Fraser Coho <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf">(2015)</a>, and Southern BC Chinook <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf">(2016)</a>.
 
