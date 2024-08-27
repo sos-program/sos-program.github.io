@@ -44,9 +44,13 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 
 <h3> Climate Change Adaptation </h3>
 
-<a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are declining in abundance throughout their BC and Yukon range, and many sockeye and coho populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines. Although Chum salmon were also not exhibiting declines previously, in recent years this species also broadly has exhibited declines. 
+<a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are broadly declining in abundance throughout their BC and Yukon range, and many sockeye and coho populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines. Although Chum salmon were also not exhibiting declines previously, in recent years this species also has exhibited declines throughout its range. There are exceptions to all these patterns for particular populations.
+
+DFO conducted an expert-driven workshop to produce the following State of Salmon report describing salmon and ecosystem trends:
 
 <a href = "https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html">State of Canadian Pacific Salmon 2019 E-Book</a>
+
+DFO also collaborated with member countries of the North Pacific Anadromous Fish Commission (NPAFC) (Canada, Japan, Republic of Korea, Russia, and the United States of America) to produce a report for salmon throughout the North Pacific:
 
 <a href = "https://www.npafc.org/TR19/">North Pacific Anadromous Fish Commission: The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem </a>
 
