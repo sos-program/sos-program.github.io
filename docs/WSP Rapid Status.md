@@ -6,7 +6,7 @@ The WSP rapid status assessment approach uses an algorithm to assess status ([Pe
 
 The resulting algorithm thus approximates the expert decision-making process to assess WSP statuses. Decision rules are sequentially applied to the [WSP metric values](./WSP Indicators and Benchmarks.md) calculated for each CU being assessed. The algorithm pathway taken by each CU in the year being assessed depends on which metrics are available and how their values compare to the thresholds implemented by the algorithm. At the end of each pathway, the algorithm assigns a Red, Amber, or Green status, with High, Medium or Low confidence.
 
-Confidence is determined based on the metrics used assess status, and their values. Statuses determined using abundance-based metrics (relative abudnance and absolute abundance) are generally associated with higher confidence than those that are assigned using only trend-based metrics (long-term trend and percent change).
+Confidence is determined based on the metrics used assess status, and their values. Statuses determined using abundance-based metrics (relative abundance and absolute abundance) are generally associated with higher confidence than those that are assigned using only trend-based metrics (long-term trend and percent change).
 
 The WSP rapid status assessment approach requires expert input to prepare data, determine how metrics are calculated, and review resulting statuses. However, metric calculation, and the labour-intensive process of integrating metrics into statuses are automated, significantly streamlining the overall process. 
 
