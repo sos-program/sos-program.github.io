@@ -60,7 +60,5 @@ populations, determined by the habitats they occupy and their life histories ([C
 
 As environmental conditions continue to change adapting our salmon management systems to climate change is a critical next step. Adaptation means using information on current and future changes in climate not only to avoid or reduce negative impacts, but also to exploit potential benefits. We define meaningful adaptation as forward-looking and proactive. Incorporating climate adaptation into new and ongoing planning and decision-making processes has been associated with successful implementation of adaptation. A recent report produced by DFO provides a way forward with a list of activities and tools that can enable us to more thoroughly address climate change in salmon management. These include developing our capacity to adapt, creating a team to lead and support adaptation, improving collaboration, and initiating adaptation assessment and planning processes that are supported by climate change projections, vulnerability assessments and scenario planning:
 
-<a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">adapt to the changing salmon landscape</a>.   
-
 <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">Climate change adaptation for Pacific salmon</a>. 
  
