@@ -10,7 +10,7 @@ In addition to statuses, DFO’s Salmon Scanner presents supplementary informati
 
 Experts that may benefit from the Scanner include stock assessment biologists, habitat, harvest, and hatchery management biologists, Indigenous technical experts, biologists working on SARA implementation, and researchers working on salmon and their ecosystems. 
 
-In the Salmon Scanner, rapid statuses should be interpreted as akin to a ‘check engine light’, or other diagnostic tool that can highlight potential issues and be used to monitor trends through informal coastwide status scans. In decision-making contexts, WSP rapid statuses are combined with expert input and are peer-reviewed to ensure their validity. Such an expert review process is being used to support status evaluations for stock management units against their limit reference-points (LRP), as legally required under the modernized Fisheries Act (2019).
+In DFO's Salmon Scanner, rapid statuses should be interpreted as akin to a ‘check engine light’, or other diagnostic tool that can highlight potential issues and be used to monitor trends through informal coastwide status scans. In decision-making contexts, WSP rapid statuses are combined with expert input and are peer-reviewed to ensure their validity. Such an expert review process is being used to support status evaluations for stock management units against their limit reference-points (LRP), as legally required under the modernized Fisheries Act (2019).
 
 The Scanner will be rolled out gradually over the coming months to DFO and external salmon technical experts, through individual and group sessions. Additional Pacific salmon CUs will be added to the Scanner as application of the WSP rapid status algorithm is expanded.
 
