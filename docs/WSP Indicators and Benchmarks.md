@@ -11,8 +11,7 @@ WSP metrics fall within four classes of indicators for assessing status: abundan
 benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
 
 <br>
-For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. The lower benchmark is set at a level that provides 
-a substantial buffer between the benchmark and the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) classification of ‘endangered’. 
+For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. 
 
 <img src="./assets/images/WSP status zones.png" width="500" />
 
