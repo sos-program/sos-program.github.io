@@ -6,7 +6,7 @@ Caughley, G. 1994. [Directions in Conservation Biology](https://www.google.com/u
 
 COSEWIC. 2010. [COSEWIC’s assessment process and criteria](https://www.canada.ca/content/dam/eccc/migration/cosewic-cosepac/94d0444d-369c-49ed-a586-ec00c3fef69b/assessment_process_and_criteria_e.pdf).
 
-**Crozier et al. 2019**
+Crozier, L.G., McClure, M.M., Beechie, T., Bograd, S.J., Boughton, D.A., Carr, M., Cooney, T.D., Dunham, J.B., Greene, C.M., Haltuch, M.A., Hazen, E.L., Holzer, D.M., Huff, D.D., Johnson, R.C., Jordan, C.E., Kaplan, I.C., Lindley, S.T., Mantua, N.J., Moyle, P.B., Myers, J.M., Nelson, M.W., Spence, B.C., Weitkamp, L.A., Williams, T.H., and Willis-Norton, E. 2019. [Climate vulnerability assessment for Pacific salmon and steelhead in the California Current Large Marine Ecosystem](http://dx.plos.org/10.1371/journal.pone.0217711). PLoS One 14(7): e0217711. doi:10.1371/journal.pone.0217711.
 
 DFO. 2005. [Canada’s Policy for Conservation of Wild Pacific Salmon](https://www.pac.dfo-mpo.gc.ca/fm-gp/species-especes/salmon-saumon/wsp-pss/policy-politique/index-eng.html). Fisheries and Oceans Canada, Vancouver, B.C., pp. vi+ 49. 
 
@@ -51,8 +51,7 @@ Parken, C.K., McNicol, R.E., and Irvine, J.R. 2006. [Habitat-based methods to es
 
 Rodrigues, A.S.L., Pilgrim, J.D., Lamoreux, J.F., Hoffmann, M., and Brooks, T.M. 2006. [The value of the IUCN Red List for conservation](https://www.sciencedirect.com/science/article/abs/pii/S0169534705003320). Trends Ecol. Evol. 21(2): 71–76. doi:10.1016/j.tree.2005.10.010.
  
-**Schindler at al. 2010**
-
+Schindler, D.E., Hilborn, R., Chasco, B., Boatright, C.P., Quinn, T.P., Rogers, L.A., and Webster, M.S. 2010. [Population diversity and the portfolio effect in an exploited species](http://www.nature.com/articles/nature09060). Nature 465(7298): 609–612. doi:10.1038/nature09060.
 
 Wade, J., Hamilton, S., Baxter, B., Brown, G., Grant, S.C.H., Holt, C., Thiess, M., and Withler, R. 2019. [Framework for reviewing and approving revisions to Wild Salmon Policy conservation units](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40780399.pdf). DFO. Can. Sci. Advis. Sec. Res. Doc. 2019/015. v + 29 p.
 
