@@ -34,9 +34,9 @@ Grant et al. 2020](./References.md)). This ensures that Pacific salmon statuses 
 <br>
 
 ### Benefits
-The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs in B.C. and the Yukon, and can be regularly updated. Expanding the number of assessed CUs will require input from 
+The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs in B.C. and the Yukon, and can be regularly updated.  Expanding the number of assessed CUs will require input from 
 stock assessment experts to prepare input data and review/verify the results. However, overall the time commitment required to assess WSP statuses has been greatly reduced through implementation 
-of this algorithm and the data processes that surround it.
+of this algorithm and the data processes that surround it. The WSP rapid status approach, similar to the WSP integrated status processes, ensures WSP status assessments are science-determined (objective), consistent, and comparable between CUs and years.
 
 WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md) once fully reviewed. The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
