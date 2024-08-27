@@ -5,7 +5,7 @@
 
 <h3> What do we do?</h3>
 
-The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
+DFO's State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
 
 Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md)). Given these trends, regular tracking of the state and distribution of salmon biodiversity is increasingly important to support decision-making processes. 
 
