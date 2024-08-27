@@ -4,7 +4,7 @@
 ### Standardized Monitoring of Wild Salmon Status 
 
 
-DFO’s <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> recognizes the importance of monitoring and conserving salmon biodiversity. Greater biodiversity reduces the risk of species' extinction by increasing the likelihood that some populations will be able
+DFO’s <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> recognizes the importance of monitoring and conserving salmon biodiversity. Greater biodiversity reduces the risk of species extinctions by increasing the likelihood that some populations will be able
 to withstand changing circumstances. Salmon biodiversity can also buffer overall abundances from periods of environmental change, since some salmon traits are better adapted to different conditions than others. 
 This is called the portfolio effect; greater diversity, in theory, means that more stable overall abundances are available to support harvest and ecosystem function ([Schindler et al. 2010](./References.md)). 
 
