@@ -9,12 +9,14 @@ This approach was built on status assessment methods developed by the IUCN and C
 status metrics that were established globally through the IUCN ([Mace et al. 2008, IUCN 2022](./References.md)) and have been adopted in Canada by COSEWIC ([COSEWIC 2010](./References.md)). 
 Standardized metrics enable the objective and transparent assessment of status, and the production of consistent status results. 
 
-The [toolkit of WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md) was developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md).
-This toolkit has been applied to assess Fraser Sockeye ([Grant et al. 2011, Grant & Pestal 2012, Grant et al. 2020](./References.md)), 
-Interior Fraser Coho ([DFO 2015](./References.md)), and Southern BC Chinook ([DFO 2016](./References.md)). 
+The [toolkit of WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md) was developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md). To conduct WSP status assessment a structured process was developed to ensure status assessments were objective, consistent, and comparable across CUs and years.
 
 In each of the completed WSP status assessment processes, specific metrics were selected from the toolkit depending on data availability, quantity, and quality. After metrics are 
 calculated, an [integration process](./Integrated Status Assessments.md) is required to combine results across metrics into a single status for each CU.
+
+WSP integrated status assessments have been conducted for Fraser Sockeye ([Grant et al. 2011, Grant & Pestal 2012, Grant et al. 2020](./References.md)), 
+Interior Fraser Coho ([DFO 2015](./References.md)), and Southern BC Chinook ([DFO 2016](./References.md)). 
+
 
 [WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)   
 [Integrated status assessments](./Integrated Status Assessments.md)   
