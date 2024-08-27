@@ -26,7 +26,7 @@ Within Strategy 1, the WSP prescribes three actions steps:
 Although adaptive diversity of Pacific salmon occurs at a range of scales that include the species, CU, population and deme, the WSP identifies diversity at the scale of CUs as fundamental units that cannot be recolonized if lost. A CU is defined as a group of wild salmon sufficiently isolated from other groups that, if lost, are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) ([DFO 2005](./References)). 
 <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics. 
 
-There are 377 'current' CUs defined across the five species of salmon managed by DFO in the Pacific Region ([Wade et al. 2019](./References.md)). Current is a specific CU designation. 'Current' CUs are extant 
+There are 377 'current' CUs defined across the five species of salmon managed by DFO in the Pacific Region ([Wade et al. 2019](./References.md)). 'Current' is a specific CU designation. 'Current' CUs are extant 
 (i.e. not extirpated), and are either part of the original CU list developed by <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>, or have been
  modified and approved by CU experts and methodological processes that align with <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>. 
 Revisions to the original CU list have been completed for Fraser sockeye and Southern BC Chinook ([Grant et al. 2011, Brown et al. 2019](./References.md)). 
@@ -39,7 +39,7 @@ DFO’s WSP provides a general description of wild salmon status assessments in 
 and Green (good status), and provides examples of general criteria (metrics) that could be used to assess status at the CU level. 
 
 A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was next developed to provide a set of quantifiable 
-biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each metric, lower (delinate Red to Amber status zones) and upper (delinate Amber to Green) benchmarks were identified. 
+biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each metric, lower (delinate Red to Amber status zones) and upper (delinate Amber to Green) benchmarks were identified. This provides the toolkit, but not the overall approach and structured process for WSP status assessments, which were developed through subsequent processes [(see Action Step 1.3: Monitor and Assess CU Status)](#action-step-13-monitor-and-assess-cu-status)
 
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
