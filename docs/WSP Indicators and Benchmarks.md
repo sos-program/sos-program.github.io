@@ -4,7 +4,7 @@
 <br>
 WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. Abundance and trends in abundance metrics have been most commonly applied in the WSP status assessments to date. Fishing mortality metrics have not been used because this indicator reflects a threat to a CU rather than an intrinsic property of the CU, and is typically used only 
 when abundance data are not available (Holt et al 2009). Information on distribution was presented in the WSP status assessments for Interior Fraser Coho and Southern BC Chinook. However, benchmarks have not yet been 
-developed to assess distribution metrics, and the information provided in past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
+developed to assess distribution metrics, and the information provided in these past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
 
 
 
