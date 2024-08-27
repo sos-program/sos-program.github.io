@@ -7,6 +7,7 @@ when abundance data are not available (Holt et al 2009). Information on distribu
 developed to assess distribution metrics, and the information provided in past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
 
 
+
 <img src="./assets/images/Indicators metrics benchmarks.png" width="500" />
 
 *Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
