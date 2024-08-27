@@ -2,7 +2,9 @@
 
 ## WSP Toolkit: Indicators, Metrics, and Benchmarks
 <br>
-WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. 
+WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. Abundance and trends in abundance metrics have been most commonly applied in the WSP status assessments to date. Fishing mortality metrics have not been used because this indicator reflects a threat to a CU rather than an intrinsic property of the CU, and is typically used only 
+when abundance data are not available (Holt et al 2009). Information on distribution was presented in the WSP status assessments for Interior Fraser Coho and Southern BC Chinook. However, benchmarks have not yet been 
+developed to assess distribution metrics, and the information provided in past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
 
 
 <img src="./assets/images/Indicators metrics benchmarks.png" width="500" />
@@ -19,9 +21,6 @@ For each metric, lower and upper benchmarks delineate, respectively, the Red to 
 
 <br>
 
-Abundance and trends in abundance metrics have been most commonly applied in the WSP status assessments to date. Fishing mortality metrics have not been used because this indicator reflects a threat to a CU rather than an intrinsic property of the CU, and is typically used only 
-when abundance data are not available (Holt et al 2009). Information on distribution was presented in the WSP status assessments for Interior Fraser Coho and Southern BC Chinook. However, benchmarks have not yet been 
-developed to assess distribution metrics, and the information provided in past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
 
 The WSP status approach currently relies on two abundance metrics and two trend in abundance metrics that were applied in all four previous assessments. These criteria reflect two paradigms to assess conservation 
 risk emphasized in conservation biology: small population size and declining population ([Caughley 1994; Mace et al. 2008](./References.md)). 
