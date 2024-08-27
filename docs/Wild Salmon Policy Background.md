@@ -49,7 +49,7 @@ biological status metrics that fall within four classes of status indicators: ab
 
 #### Action Step 1.3: Monitor and Assess CU status
 
-In Action Step 1.3, annual monitoring programs are required to assess salmon abundance and distribution across populations and CUs in B.C. and the Yukon. Population data are grouped into CUs for status assessments, where data are selected and processed based on CU expert input. To assess the WSP status of a CU, first metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU, and statuses for each applicable metric are calculated.
+In Action Step 1.3, annual monitoring programs are required to assess salmon abundance and distribution across populations and CUs in B.C. and the Yukon. For WSP status assessments, population data are grouped into CUs, and appropriate data are selected and processed based on CU expert input. To assess the WSP status of a CU, first metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU, and statuses for each applicable metric are calculated.
 
 The application of the metric toolkit alone does not result in completed WSP status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
 [percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. 
