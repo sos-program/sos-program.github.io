@@ -14,7 +14,7 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 <img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 
-*The WSP rapid status algorithm. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments and High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
+*The WSP rapid status algorithm. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
 has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000.*
 
 
