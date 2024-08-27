@@ -22,13 +22,13 @@ DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md
 
 To support status assessments, DFO developed a [status assessment toolkit](./WSP Indicators and Benchmarks.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
 
-The WSP toolkit has been used to assess three groups of Pacific salmon Conservation Units (CUs) through four separate [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
+An integrated WSP status assessment approach was developed to provide objective and consistent expert-driven status assessments. This approach has been used to assess three groups of Pacific salmon Conservation Units (CUs) through four separate [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
 Fraser Sockeye <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349836.pdf">(2012,</a>, <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40712163.pdf">2017)</a>, 
 Interior Fraser Coho <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf">(2015)</a>, and Southern BC Chinook <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf">(2016)</a>.
 
 More recently, DFO's State of the Salmon Program developed a streamlined approach to assess biological statuses of Pacific Salmon Conservation Units (CUs) through 
 <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41225260.pdf">Wild Salmon Policy (WSP) rapid status assessments</a>. The State of the Salmon program is coordinating and supporting 
-local implementation of rapid status assessments across species and areas.
+local implementation of WSP rapid status assessments across species and areas.
 
 Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md). The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
