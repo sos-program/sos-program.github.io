@@ -23,7 +23,7 @@ For each metric, lower and upper benchmarks delineate, respectively, the Red to 
 <br>
 
 
-The WSP status approach currently relies on two abundance metrics and two trend in abundance metrics that were applied in all four previous assessments. These criteria reflect two paradigms to assess conservation 
+The WSP status approach currently relies on two abundance metrics and two trend in abundance metrics that were applied in all four previous assessments [Grant & Pestal 2013, DFO 2015, DFO 2016, Grant et al. 2020](./References.md). These criteria reflect two paradigms to assess conservation 
 risk emphasized in conservation biology: small population size and declining population ([Caughley 1994; Mace et al. 2008](./References.md)). 
 
 <br>
