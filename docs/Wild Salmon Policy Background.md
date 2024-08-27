@@ -39,7 +39,7 @@ DFO’s WSP provides a general description of wild salmon status assessments in 
 and Green (good status), and provides examples of general criteria (metrics) that could be used to assess status at the CU level. 
 
 A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was next developed to provide a set of quantifiable 
-metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). For each metric, lower (delinate Red to Amber status zones) and upper (delinate Amber to Green) were identified.
+biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each metric, lower (delinate Red to Amber status zones) and upper (delinate Amber to Green) benchmarks were identified. 
 
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
@@ -49,11 +49,12 @@ metrics that fall within four classes of status indicators: abundance, trends in
 
 #### Action Step 1.3: Monitor and Assess CU status
 
-Annual monitoring programs assess salmon abundance and distribution across populations and CUs in B.C. and the Yukon. To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU. Metric values are calculated 
-and are compared to metric-specific benchmarks that delineate the Red to Amber (lower benchmark) and the Amber to Green (upper benchmark) status zones to determine metric statuses (Red, Amber, or Green).
+In Action Step 1.3, annual monitoring programs are required to assess salmon abundance and distribution across populations and CUs in B.C. and the Yukon. Population data are grouped into CUs for status assessments, where data are selected and processed based on CU expert input. To assess the WSP status of a CU, first metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU, and statuses for each applicable metric are calculated.
 
-The application of the metric toolkit alone does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
-[percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
+The application of the metric toolkit alone does not result in completed WSP status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
+[percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. 
+
+The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
 
 [WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
 [Integrating metrics into WSP statuses](./Integrated Status Assessments.md)
