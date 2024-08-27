@@ -39,7 +39,7 @@ DFO’s WSP provides a general description of wild salmon status assessments in 
 and Green (good status), and provides examples of general criteria (metrics) that could be used to assess status at the CU level. 
 
 A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was next developed to provide a set of quantifiable 
-biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each quantitative metric, lower (delinates Red to Amber status zones) and upper (delinates Amber to Green status zones) benchmarks were identified. This provides the toolkit, but not the overall approach and structured process for WSP status assessments, which were developed through subsequent processes [(see Action Step 1.3: Monitor and Assess CU Status)](#action-step-13-monitor-and-assess-cu-status)
+biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each quantitative metric, lower (delinates Red to Amber status zones) and upper (delinates Amber to Green status zones) benchmarks were identified. This provides the toolkit, but not the overall structured process required to complete WSP status assessments, which were developed through subsequent processes [(see Action Step 1.3: Monitor and Assess CU Status)](#action-step-13-monitor-and-assess-cu-status)
 
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
@@ -54,7 +54,7 @@ In Action Step 1.3, annual monitoring programs are required to assess salmon abu
 The application of the metric toolkit alone does not result in completed WSP status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
 [percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. 
 
-The final step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single WSP status for each CU. 
+The final step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics, along with standardized data packages on abundance and status time series, into a single WSP status for each CU. 
 
 [WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
 [Integrating metrics into WSP statuses](./Integrated Status Assessments.md)
