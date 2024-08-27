@@ -47,7 +47,8 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 <a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are declining in abundance throughout their BC and Yukon range, and many sockeye and coho populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines. Although Chum salmon were also not exhibiting declines previously, in recent years this species also broadly has exhibited declines. 
 
 <a href = "https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html">State of Canadian Pacific Salmon 2019 E-Book</a>
-<A href = "https://www.npafc.org/TR19/">North Pacific Anadromous Fish Commission: The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem </a>
+
+<a href = "https://www.npafc.org/TR19/">North Pacific Anadromous Fish Commission: The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem </a>
 
 We do not anticipate that long-term salmon survival patterns will reflect those we have seen historically, given the environmental changes that have been observed in recent years, and those predicted for the 
 future in B.C. and the Yukon. 
