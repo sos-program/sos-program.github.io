@@ -14,7 +14,7 @@ DFO. 2015. [Wild salmon policy biological status assessment for conservation uni
 
 DFO. 2016. [Integrated Biological Status of Southern British Columbia Chinook Salmon (*Oncorhynchus tshawytscha*) Under the Wild Salmon Policy](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf). DFO Can. Sci. Advis. Sec. Sci. Advis. Rep. 2016/042.
 
-DFO. 2024. [Rapid Status Approximations for Pacific Salmon Derived from Integrated Expert Assessments under Fisheries and Oceans Canada Wild Salmon Policy](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ScR-RS/2024/2024_004-eng.pdf). DFO Can. Sci. Advis. Sec. Sci. Resp. 2024/004. Consensus science advice regarding status assessments from a CSAS peer-review process in 2023. Summarizes methods and results from an evaluation of candidate algorithms (i.e., decision trees implemented as computer code), and recommendation related to implementation process for routine status assessments across species and areas.
+DFO. 2024. [Rapid Status Approximations for Pacific Salmon Derived from Integrated Expert Assessments under Fisheries and Oceans Canada Wild Salmon Policy](https://www.dfo-mpo.gc.ca/csas-sccs/Publications/ScR-RS/2024/2024_004-eng.pdf). DFO Can. Sci. Advis. Sec. Sci. Resp. 2024/004. 
 
 Grant, S.C.H., MacDonald, B.L., Cone, T.E., Holt, C.A., Cass, A., Porszt, E.J., Hume, J.M.B., and Pon, L.B. 2011. [Evaluation of uncertainty in Fraser sockeye (*Oncorhynchus nerka*) Wild Salmon Policy status using abundance and trends in abundance metrics](https://science-catalogue.canada.ca/record=4054219~S6). Can. Sci. Advis. Sec. Res. Doc. 2011/087: viii + 183 pp. 
 
@@ -47,6 +47,8 @@ McElhany, P., Ruckelshaus, M.H., Ford, M.J., Wainwright, T.C., and Bjorkstedt, E
 
 National Research Council (US) Committee on Scientific Issues in the Endangered Species Act. 1998. [Science and the Endangered Species Act](https://nap.nationalacademies.org/catalog/4978/science-and-the-endangered-species-act).
 
+NPAFC. 2023. [The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem](https://www.npafc.org/TR19/). In North Pacific Anadromous Fish Commission Technical Report 19. 
+
 Parken, C.K., McNicol, R.E., and Irvine, J.R. 2006. [Habitat-based methods to estimate escapement goals for data limited Chinook salmon stocks in British Columbia, 2004](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/326898.pdf). Can. Sci. Advis. Secr. Res. Doc. 2006/083: vii + 74 pp. 
 
 Rodrigues, A.S.L., Pilgrim, J.D., Lamoreux, J.F., Hoffmann, M., and Brooks, T.M. 2006. [The value of the IUCN Red List for conservation](https://www.sciencedirect.com/science/article/abs/pii/S0169534705003320). Trends Ecol. Evol. 21(2): 71–76. doi:10.1016/j.tree.2005.10.010.
@@ -55,8 +57,9 @@ Schindler, D.E., Hilborn, R., Chasco, B., Boatright, C.P., Quinn, T.P., Rogers, 
 
 Wade, J., Hamilton, S., Baxter, B., Brown, G., Grant, S.C.H., Holt, C., Thiess, M., and Withler, R. 2019. [Framework for reviewing and approving revisions to Wild Salmon Policy conservation units](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40780399.pdf). DFO. Can. Sci. Advis. Sec. Res. Doc. 2019/015. v + 29 p.
 
+IUCN. 2022. [Guidelines for Using the IUCN Red List Categories and Criteria](https://www.iucnredlist.org/resources/redlistguidelines). 
 
-**IUCN 2022**
+
 
 
 
