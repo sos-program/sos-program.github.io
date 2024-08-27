@@ -2,21 +2,19 @@
 
 ## WSP Rapid Status Assessments
 
-The WSP rapid status assessment approach uses an algorithm, which is a decision tree implemented as computer code, to assess status. The algoirthm was developed from the four sets of previously completed integrated status assessments ([Grant & Pestal 2012, DFO 2015, DFO 2016, Grant et al. 2020](./References.md)).
-
-The algorithm is a set of consecutive decision rules that were commonly used by experts to assess WSP statuses. The algorithm was built using Classification and Regression Tree (CART) analyses, in combination with common rationale or rules extracted from the CU-specific status narratives from previous WSP integrated status processes. 
+The WSP rapid status assessment approach uses an algorithm to assess status. The algorithm is a set of consecutive decision rules that were commonly used by experts to assess WSP statuses. The algorithm was built using Classification and Regression Tree (CART) analyses, in combination with common rationale or rules extracted from the CU-specific status narratives from previous WSP integrated status processes ([Grant & Pestal 2012, DFO 2015, DFO 2016, Grant et al. 2020](./References.md)). 
 
 The resulting algorithm thus approximates the expert decision-making process to assess WSP statuses. Decision rules are sequentially applied to the [WSP metric values](./WSP Indicators and Benchmarks.md) calculated for each CU being assessed. The algorithm pathway taken by each CU in the year being assessed depends on which metrics are available and how their values compare to the thresholds implemented by the algorithm. At the end of each pathway, the algorithm assigns a Red, Amber, or Green status, with High, Medium or Low confidence.
 
 Confidence is determined based on the metrics used assess status, and their values. Statuses determined using abundance-based metrics (relative abudnance and absolute abundance) are generally associated with higher confidence than those that are assigned using only trend-based metrics (long-term trend and percent change).
 
-The WSP rapid status assessment approach requires expert input to prepare data, determine how metrics are calculated, and review resulting statuses. However, metric calculation, and the labour-intensive process of integrating metrics into statuses are automated, significanltly streamlining the overall process. 
+The WSP rapid status assessment approach requires expert input to prepare data, determine how metrics are calculated, and review resulting statuses. However, metric calculation, and the labour-intensive process of integrating metrics into statuses are automated, significantly streamlining the overall process. 
 
 
 
 <img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 
-*WSP rapid status algorithm. To assess a CU, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments and High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
+*WSP rapid status algorithm. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments and High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
 has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000.*
 
 
@@ -36,7 +34,7 @@ Grant et al. 2020](./References.md)). This ensures that Pacific salmon statuses 
 <br>
 
 ### Benefits
-The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs, and can be regularly updated. Expanding the number of assessed CUs will require input from 
+The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs in B.C. and the Yukon, and can be regularly updated. Expanding the number of assessed CUs will require input from 
 stock assessment experts to prepare input data and review/verify the results. However, overall the time commitment required to assess WSP statuses has been greatly reduced through implementation 
 of this algorithm and the data processes that surround it.
 
