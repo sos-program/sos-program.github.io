@@ -9,7 +9,7 @@ This approach was built on status assessment methods developed by the IUCN and C
 status metrics that were established globally through the IUCN ([Mace et al. 2008, IUCN 2022](./References.md)) and have been adopted in Canada by COSEWIC ([COSEWIC 2010](./References.md)). 
 Standardized metrics enable the objective and transparent assessment of status, and the production of consistent status results. 
 
-The [toolkit of WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md) was developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md). To conduct WSP status assessment a structured process was developed to ensure status assessments were objective, consistent, and comparable across CUs and years.
+The [toolkit of WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md) was developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md). To conduct WSP status assessment, a structured process was developed to ensure status assessments were objective, consistent, and comparable across CUs and years. These are referred to as WSP integrated status assessments.
 
 In each of the completed WSP status assessment processes, specific metrics were selected from the toolkit depending on data availability, quantity, and quality. After metrics are 
 calculated, an [integration process](./Integrated Status Assessments.md) is required to combine results across metrics into a single status for each CU.
