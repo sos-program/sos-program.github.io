@@ -54,7 +54,7 @@ In Action Step 1.3, annual monitoring programs are required to assess salmon abu
 The application of the metric toolkit alone does not result in completed WSP status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
 [percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. 
 
-The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
+The final step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single WSP status for each CU. 
 
 [WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
 [Integrating metrics into WSP statuses](./Integrated Status Assessments.md)
