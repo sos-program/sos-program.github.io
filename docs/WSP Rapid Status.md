@@ -2,12 +2,7 @@
 
 ## WSP Rapid Status Assessments
 
-The WSP rapid status assessment approach uses an algorithm (i.e., a decision tree implemented as computer code) developed from the four sets of previously completed integrated status assessments([Grant & Pestal 2012, DFO 2015, DFO 2016, Grant et al. 2020](./References.md)).
-
-#### 2) Streamlined workshops 
-The streamlined version of the expert-driven approach was developed and implemented for the re-assessment of Fraser Sockeye CUs in 2017 ([Grant et al. 2020](./References.md)).
-
-
+The WSP rapid status assessment approach uses an algorithm (i.e., a decision tree implemented as computer code) developed from the four sets of previously completed integrated status assessments ([Grant & Pestal 2012, DFO 2015, DFO 2016, Grant et al. 2020](./References.md)).
 
 The algorithm is a set of consecutive decision rules that were commonly used by experts to assess WSP statuses. The algorithm was built using Classification and Regression Tree (CART) analyses, in combination with common rationale or rules extracted from the CU-specific status narratives from previous WSP integrated status processes. 
 
