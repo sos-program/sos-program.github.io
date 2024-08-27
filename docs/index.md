@@ -49,7 +49,8 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 DFO conducted an expert-driven workshop to produce the following State of Salmon report describing salmon and ecosystem trends:
 <a href = "https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html">State of Canadian Pacific Salmon 2019 E-Book</a>
 
-DFO also collaborated with member countries of the North Pacific Anadromous Fish Commission (NPAFC) (Canada, Japan, Republic of Korea, Russia, and the United States of America) to produce a status report for salmon throughout the North Pacific:                                            <a href = "https://www.npafc.org/TR19/">North Pacific Anadromous Fish Commission: The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem </a>
+DFO also collaborated with member countries of the North Pacific Anadromous Fish Commission (NPAFC) (Canada, Japan, Republic of Korea, Russia, and the United States of America) to produce a status report for salmon throughout the North Pacific:                                       
+<a href = "https://www.npafc.org/TR19/">North Pacific Anadromous Fish Commission: The status and trends of Pacific salmon and steelhead trout stocks with linkages to their ecosystem </a>
 
 We do not anticipate that long-term salmon survival patterns will reflect those we have seen historically, given the environmental changes that have been observed in recent years, and those predicted for the 
 future in B.C. and the Yukon. 
