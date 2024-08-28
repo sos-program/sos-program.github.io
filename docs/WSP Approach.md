@@ -12,7 +12,7 @@ Standardized metrics enable the objective and transparent assessment of status, 
 The [toolkit of WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md) was developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md). To conduct WSP status assessment, a structured process was developed to ensure status assessments were objective, consistent, and comparable across CUs and years. These are referred to as [WSP integrated status assessments](.\Integrated Status Assessments.md).
 
 For each of the completed WSP integrated status assessment processes, specific metrics were selected from the toolkit depending on data availability, quantity, and quality of each CU. After metrics were 
-calculated, the [WSP integrated status assessment process](./Integrated Status Assessments.md) is required to combine results across metrics, and additional information presented in standardized data summary packages, into a single status for each CU, and a narrative describing what metrics and supporting information drove these status determinations.
+calculated, the [WSP integrated status assessment process](./Integrated Status Assessments.md) is required to combine results across metrics, and additional information presented in standardized data summary packages, into a single status for each CU. A narrative is also produced for each CU to describe what metrics and supporting information drove these status determinations.
 
 WSP integrated status assessments have been conducted for Fraser Sockeye ([Grant et al. 2011, Grant & Pestal 2012, Grant et al. 2020](./References.md)), 
 Interior Fraser Coho ([DFO 2015](./References.md)), and Southern BC Chinook ([DFO 2016](./References.md)). 
