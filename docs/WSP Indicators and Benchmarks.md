@@ -11,7 +11,7 @@ developed to assess distribution metrics, and the information provided in these 
 <img src="./assets/images/Indicators metrics benchmarks.png" width="500" />
 
 *Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
-benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
+benchmarks on each metric. These were developed by [Holt (2009)](./References.md) and [Holt et al. (2009)](./References.md) to support the assessment of biological statuses of Conservation Units.*
 
 <br>
 For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. 
