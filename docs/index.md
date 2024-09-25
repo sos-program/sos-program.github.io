@@ -1,6 +1,6 @@
 <br>
 <h1> Welcome to the State of the Salmon Program!</h1>
-<h2> Fisheries & Oceans Canada</h2>
+<h4> Fisheries & Oceans Canada</h4>
 <br>
 <h3> Acknowledgements</h3>
 We humbly and respectfully acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems. 
