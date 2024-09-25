@@ -1,11 +1,11 @@
 <br>
 <h1> Welcome to the State of the Salmon Program!</h1>
-
+<h2> Fisheries & Oceans Canada</h2>
 <br>
 <h3> Acknowledgements</h3>
-We humbly and respectfully acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems.
+We humbly and respectfully acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems. 
 
-All our work is collaborative. We rely on the data, knowledge and wisdom provided by DFO staff, Indigenous groups, scientists, NGO’s, and consultants on Pacific Salmon and their ecosystems. We recognize the data we use comes from the dedication, and attention to detail, and hard work through all environmental conditions to collect salmon data, and this is a testament to the passion and concern for salmon that so many in British Columbia and the Yukon share. These data are the foundation for all the analyses being done to support salmon resource management, including the status assessments. Algorithms can automate some steps, but without the basic data sets, and the expertise on how to use these data and the appropriate application of these data, relies on these experts. The WSP rapid status assessment approaches could not be conducted without this foundation.
+All our State of the Salmon work is collaborative. We rely on the data, knowledge and wisdom provided by DFO staff, Indigenous groups, scientists, NGO’s, and consultants on Pacific Salmon and their ecosystems. We recognize the data we use comes from the dedication, and attention to detail, and hard work through all environmental conditions to collect salmon data, and this is a testament to the passion and concern for salmon that so many in British Columbia and the Yukon share. These data are the foundation for all the analyses being done to support salmon resource management, including the status assessments. Algorithms can automate some steps, but without the basic data sets, and the expertise on how to use these data and the appropriate application of these data, relies on these experts. The WSP rapid status assessment approaches could not be conducted without this foundation.
 
 <h3> What do we do?</h3>
 
