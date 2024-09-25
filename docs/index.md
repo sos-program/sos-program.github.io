@@ -5,7 +5,11 @@
 
 <h3> What do we do?</h3>
 
-DFO's State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
+DFO's State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools. 
+
+Collaboration is a foundation of our work. All our work relies on the scientific data, knowledge and wisdom about Pacific salmon that comes from DFO Staff, Indigenous Peoples, NGO’s, and consultants that work in the field, labs, and offices to generate salmon escapement, catch and recruitment data. The dedication, attention to detail, and hard work through all environmental conditions to collect these data is a testament to the passion and concern for salmon that so many in British Columbia and the Yukon share. These data are the foundation for all the analyses being done to support salmon resource management, including the status assessments. 
+
+![image](https://github.com/user-attachments/assets/e79d7a13-3bc3-4100-97eb-ce2797cdd129)
 
 Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md)). Given these trends, regular tracking of the state and distribution of salmon biodiversity is increasingly important to support decision-making processes. 
 
