@@ -2,14 +2,14 @@
 <h1> Welcome to the State of the Salmon Program!</h1>
 
 <br>
+<h3> Acknowledgements</h3>
+We humbly and respectfully acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems.
+
+All our work is collaborative. We rely on the data, knowledge and wisdom provided by DFO staff, Indigenous groups, scientists, NGO’s, and consultants on Pacific Salmon and their ecosystems. We recognize the data we use comes from the dedication, and attention to detail, and hard work through all environmental conditions to collect salmon data, and this is a testament to the passion and concern for salmon that so many in British Columbia and the Yukon share. These data are the foundation for all the analyses being done to support salmon resource management, including the status assessments. Algorithms can automate some steps, but without the basic data sets, and the expertise on how to use these data and the appropriate application of these data, relies on these experts. The WSP rapid status assessment approaches could not be conducted without this foundation.
 
 <h3> What do we do?</h3>
 
 DFO's State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools. 
-
-Collaboration is a foundation of our work. All our work relies on the scientific data, knowledge and wisdom about Pacific salmon and their freshwater and marine ecosystems that comes from DFO Staff, Indigenous Peoples, NGO’s, and consultants that work in the field, labs, and offices to generate salmon escapement, catch and recruitment data. The dedication, attention to detail, and hard work through all environmental conditions to collect these data is a testament to the passion and concern for salmon that so many in British Columbia and the Yukon share. These data are the foundation for all the analyses being done to support salmon resource management, including the status assessments. 
-
-We recognize that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems.
 
 Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md)). Given these trends, regular tracking of the state and distribution of salmon biodiversity is increasingly important to support decision-making processes. 
 
