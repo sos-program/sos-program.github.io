@@ -24,11 +24,11 @@ Within Strategy 1, the WSP prescribes three actions steps:
 #### Action Step 1.1: Identify Conservation Units (CUs)
 
 Although adaptive diversity of Pacific salmon occurs at a range of scales that include the species, CU, population and deme, the WSP identifies diversity at the scale of CUs as fundamental units that cannot be recolonized if lost. A CU is defined as a group of wild salmon sufficiently isolated from other groups that, if lost, are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) ([DFO 2005](./References)). 
-<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics. 
+<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics ([Holtby & Ciruna 2007](./References)). For a general summary of how CUs are delineated see Appendix A2 of [Pestal et al. 2024](./References)
 
 There are 377 'current' CUs defined across the five species of salmon managed by DFO in the Pacific Region ([Wade et al. 2019](./References.md)). 'Current' is a specific CU designation. 'Current' CUs are extant 
 (i.e. not extirpated), and are either part of the original CU list developed by <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>, or have been
- modified and approved by CU experts and methodological processes that align with <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>. 
+ modified and approved by CU experts and methodological processes that align with <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>. There is an DFO OpenData website to find the forms to submit revisions to CU requests: https://open.canada.ca/data/en/dataset/1ac00a39-4770-443d-8a6b-9656c06df6a3
 Revisions to the original CU list have been completed for Fraser sockeye and Southern BC Chinook ([Grant et al. 2011, Brown et al. 2019](./References.md)). 
 
 <br>
