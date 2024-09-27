@@ -28,8 +28,8 @@ Due to these constraints, each of the four completed expert-driven WSP status as
 ### Algorithm-based Integration Processes
 
 #### 3) Rapid status assessments
-The third approach to determining integrated statuses delivers on the escalating need for annual status assessments across B.C. & Yukon salmon CUs. The WSP Rapid Status approach approximates the expert decision-making processes used in more formal Integrated WSP Status assessments through use of an algorithm (computer-coded decision tree). 
+The third approach to determining integrated statuses delivers on the escalating need for annual status assessments across B.C. & Yukon salmon CUs. The WSP Rapid Status approach approximates the expert decision-making processes used in more formal Integrated WSP Status assessments through use of a decision tree that is implemented with computer coded algorithm. While automation of the algorithm streamlines the overall approach, the WSP rapid status approach still relies heavily on local CU experts to determine appropriate data, data treatements, and review of status results.
 
-We refer to algorithm-derived statuses as WSP Rapid Statuses to differentiate these from WSP Integrated Statuses determined through expert-driven workshops. 
+We refer to decision-tree-derived statuses as WSP Rapid Statuses to differentiate these from WSP Integrated Statuses determined through expert-driven workshops. 
 
 [More information on WSP Rapid Statuses](./WSP Rapid Status.md) 
