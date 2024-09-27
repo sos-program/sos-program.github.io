@@ -14,7 +14,7 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 <img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 
-*The WSP rapid status algorithm. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
+*The WSP rapid status decision tree. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
 has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000.*
 
 
@@ -29,14 +29,14 @@ Grant et al. 2020](./References.md)). This ensures that Pacific salmon statuses 
 
 2. Data are vetted and WSP rapid statuses are evaluated by CU experts. DFO stock assessment leads work in collaboration with Indigenous groups, consultants, and others that support or lead salmon stock assessment programs to fine tune the CU data used (determining appropriate escapement sites, years, data treatment, etc.), select applicable [WSP metrics](./WSP Indicators and Benchmarks.md), and determine specifications for metric calculations.
 
-3. The algorithm is continually refined as new information becomes available. This means that data sets and status metrics for each CU will be regularly reviewed and updated, and the rapid status algorithm will be reviewed through on-going work with CU experts. Experts can identify where decision rules may require revision, or where additional decision rules may be needed as new CUs are assessed. In any such case, algorithm performance will be tested for overall improvements.
+3. The WSP rapid status decision tree is continually refined as new information becomes available. This means that data sets and status metrics for each CU will be regularly reviewed and updated, and the decision tree will be reviewed through on-going work with CU experts. Experts can identify where decision rules may require revision, or where additional decision rules may be needed as new CUs are assessed. In any such case, decision tree performance will be tested for overall improvements.
 
 <br>
 
 ### Benefits
 The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs in B.C. and the Yukon, and can be regularly updated.  Expanding the number of assessed CUs will require input from 
 stock assessment experts to prepare input data and review/verify the results. However, overall the time commitment required to assess WSP statuses has been greatly reduced through implementation 
-of this algorithm and the data processes that surround it. The WSP rapid status approach, similar to the WSP integrated status processes, ensures WSP status assessments are science-determined (objective), consistent, and comparable between CUs and years.
+of this decision tree and the data processes that surround it. The WSP rapid status approach, similar to the WSP integrated status processes, ensures WSP status assessments are science-determined (objective), consistent, and comparable between CUs and years.
 
 WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md) once fully reviewed. The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
