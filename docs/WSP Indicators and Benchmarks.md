@@ -2,6 +2,8 @@
 
 ## WSP Toolkit: Indicators, Metrics, and Benchmarks
 <br>
+The WSP status toolkit is used within the structured processes of [WSP integrated status assessments](./Integrated Status Assessments) or [WSP rapid status assessments](./WSP Rapid Status). What is presented below are the component parts that are selected from by CU experts to support these processes to support key objectives that status assessments are science-determined (peer-reviewed, objective, repeatable) and are also consistently applied between CUs and years, and enable comprehensive coverage of all 377 'current' CUs with applicable data in B.C. and the Yukon.
+
 WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. Abundance and trends in abundance metrics have been most commonly applied in the WSP status assessments to date. Fishing mortality metrics have not been used because this indicator reflects a threat to a CU rather than an intrinsic property of the CU, and is typically used only 
 when abundance data are not available (Holt et al 2009). Information on distribution was presented in the WSP status assessments for Interior Fraser Coho and Southern BC Chinook. However, benchmarks have not yet been 
 developed to assess distribution metrics, and the information provided in these past processes was not consistently used by experts in determining WSP statuses ([DFO 2015, 2016](./References.md)). 
