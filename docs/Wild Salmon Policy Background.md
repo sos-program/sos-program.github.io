@@ -34,8 +34,8 @@ There are 377 'current' CUs defined across the five species of salmon managed by
 
 #### Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
 
-DFO’s WSP provides a general description of wild salmon status assessments in Strategy 1, Action Step 1.2. The WSP identifies three status zones ranging from Red (poor status), to Amber (intermediate status), 
-and Green (good status), and provides examples of general criteria (metrics) that could be used to assess status at the CU level. 
+DFO’s WSP provides a general description of wild salmon status assessments in Strategy 1, Action Step 1.2. The WSP identifies three status zones ranging from _Red_ (poor status), to _Amber_ (intermediate status), 
+and _Green_ (good status), and provides examples of general criteria (metrics) that could be used to assess status at the CU level. 
 
 A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was next developed to provide a set of quantifiable 
 biological status metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). Though the fishing mortality class of indicator has not been used in status assessments, and the distribution metric has been applied qualitatively only. For each quantitative metric, lower (delinates Red to Amber status zones) and upper (delinates Amber to Green status zones) benchmarks were identified. This provides the toolkit, but not the overall structured process required to complete WSP status assessments, which were developed through subsequent processes [(see Action Step 1.3: Monitor and Assess CU Status)](#action-step-13-monitor-and-assess-cu-status)
