@@ -14,8 +14,18 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 <img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 
-*The WSP rapid status decision tree. To assess a CU's WSP rapid status, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
-has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000.*
+*The WSP rapid status decision tree. 
+To assess a CU's WSP rapid status, the very first step is determining whether or not you have data that are applicable for the WSP trend or abundance metrics. If you don't have sufficient or applicable data, the CU status is considered data deficient.
+
+If there is suffcient and applicable data to assess WSP rapid statuses, then each annual metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. 
+
+The first question asked is _Can the absolute abundance metric be used and is the current generation average less than 1,500_.
+If the answer is yes to both these questions (two green checkmarks), then the WSP status is Red with High confidence. 
+If the answser is no to one or both of these questions then you move to the next question: _Can the absolute abundance metric be used and is the current generation average less than 10,000_
+If the answer is yes to both these questions (two green checkmarks), then the next group of questions is addressed in Pathway 1, where WSP statuses are restricted to Red or Amber statuses.
+
+
+Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000.
 
 
 <br>
