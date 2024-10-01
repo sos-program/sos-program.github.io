@@ -14,7 +14,7 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 <img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 
-_**Figure above**: The WSP rapid status decision tree. _
+**Figure above**: _The WSP rapid status decision tree._ 
 To assess a CU's WSP rapid status, the very first step is for CU experts to determine whether or not there are data that are applicable and sufficient for the WSP trend or abundance metrics. If the data are not considered sufficient or applicable, the CU status is considered data deficient.
 
 If there are suffcient and applicable data to assess WSP rapid statuses, then each annual metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. 
