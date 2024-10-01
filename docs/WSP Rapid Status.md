@@ -23,8 +23,9 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
   -The first question (node 1) in the WSP status decision tree is _Can the absolute abundance metric be used and is the current generation average less than 1,500_. If the answer is yes to both these questions (two green checkmarks), then the WSP status is Red with High confidence (node 3). 
   
   -If the answer is no to one or both of these questions then you move to the next question (node 2): _Can the absolute abundance metric be used and is the current generation average less than 10,000_.
-      *If the answer is yes to both these questions (two green checkmarks), then the next group of questions is addressed in Pathway 1 (starting at node 4), where WSP statuses are restricted to Red or Amber statuses
-      *If the answer is no to one or more of these questions, then the next group of questions is addressed in Pathway 2 (starting in node 5), where WSP statuses can include Red, Amber or Green statuses.
+  
+      -If the answer is yes to both these questions (two green checkmarks), then the next group of questions is addressed in Pathway 1 (starting at node 4), where WSP statuses are restricted to Red or Amber statuses
+      -If the answer is no to one or more of these questions, then the next group of questions is addressed in Pathway 2 (starting in node 5), where WSP statuses can include Red, Amber or Green statuses.
   
   -In both Pathway 1 or Pathway 2, questions on whether you have unique relative abundance thresholds (Sgen/Smys; percentile; carrying capacity) for the CU, and applicable data that can be compare to these thresholds, then the relative abundance metric values are compared to metric thresholds to evaluate WSP rapid status, ranging from Medium to High Confidence. If there are no realative abundance thresholds, then trend metrics are applied to evaluate WSP rapid status. Trend metrics produce lower confidence WSP rapid statuses.
 
