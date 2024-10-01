@@ -16,19 +16,19 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 **Figure above**: _The WSP rapid status decision tree._ 
 
-To assess a CU's WSP rapid status, the very first step is for CU experts to determine whether or not there are applicable and sufficient data that can be used to assess status using relative abundance metrics (that include unique thresholds for each CU) or trend metrics (include shared thresholds across CUs for each metric). If the data are not considered sufficient or applicable, the CU status is considered data deficient.
+To assess a CU's WSP rapid status, the first step is for CU experts to determine whether or not there are applicable and sufficient data available to assess status using relative abundance metrics (that have thresholds estimated for the CU) or trend metrics (shared thresholds are already available across CUs for each metric). If the data are not considered sufficient or applicable, the CU status is classified as data deficient.
 
 If there are suffcient and applicable data to assess WSP rapid statuses, then each annual metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments of Red, Amber or Green status, with High, Medium or Low confidence rating. The different splits are identified as nodes: 1 to 65. 
 
-The first question in the WSP status decision tree asked is _Can the absolute abundance metric be used and is the current generation average less than 1,500_.
-If the answer is yes to both these questions (two green checkmarks), then the WSP status is Red with High confidence. 
-If the answser is no to one or both of these questions then you move to the next question: _Can the absolute abundance metric be used and is the current generation average less than 10,000_
+The first question (node 1) in the WSP status decision tree is _Can the absolute abundance metric be used and is the current generation average less than 1,500_.
+If the answer is yes to both these questions (two green checkmarks), then the WSP status is Red with High confidence (node 3). 
+If the answser is no to one or both of these questions then you move to the next question (node 2): _Can the absolute abundance metric be used and is the current generation average less than 10,000_
 
-If the answer is yes to both these questions (two green checkmarks), then the next group of questions is addressed in Pathway 1, where WSP statuses are restricted to Red or Amber statuses.
+If the answer is yes to both these questions (two green checkmarks), then the next group of questions is addressed in Pathway 1 (starting at node 4), where WSP statuses are restricted to Red or Amber statuses.
 
-If the answer is no to one or more of these questions, then the next gropu of questions is addressed in Pathway 2, where WSP statuses can include Red, Amber or Green statuses.
+If the answer is no to one or more of these questions, then the next group of questions is addressed in Pathway 2 (starting in node 5), where WSP statuses can include Red, Amber or Green statuses.
 
-In both Pathway 1 or Pathway 2, questions on whether you have unique relative abundance benchmarks (Sgen/Smys; percentile; carrying capacity) for the CU, and applicable data that can be compare to these benchmarks, then the relative abundance metric values are compared to metric thresholds to evaluate WSP rapid status. If there are no realitve abundance benchmarks, then trend metrics are applied to evaluate WSP rapid status. Trend metrics produce lower confidence WSP rapid statuses.
+In both Pathway 1 or Pathway 2, questions on whether you have unique relative abundance thresholds (Sgen/Smys; percentile; carrying capacity) for the CU, and applicable data that can be compare to these thresholds, then the relative abundance metric values are compared to metric thresholds to evaluate WSP rapid status, ranging from Medium to High Confidence. If there are no realative abundance thresholds, then trend metrics are applied to evaluate WSP rapid status. Trend metrics produce lower confidence WSP rapid statuses.
 
 <br>
 
