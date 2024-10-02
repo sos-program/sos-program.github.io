@@ -2,6 +2,13 @@
 <h1> Welcome to the State of the Salmon Program!</h1>
 <h4> Fisheries & Oceans Canada</h4>
 <br>
+[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
+[WSP Status Assessment Approach](./WSP Approach.md)   
+[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)   
+[WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
+[WSP Rapid Status Assessments](./WSP Rapid Status.md)   
+[The Pacific Salmon Status Scanner](./The Scanner.md)  
+
 <h3> Acknowledgements</h3>
 DFO's state of the salmon program humbly and respectfully acknowledge that we live and conduct our work on the unceded traditional territories of the xʷməθkʷəy̓ əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səlilwətaɬ (Tsleil-Waututh) Nations. We acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems. 
 
@@ -39,12 +46,6 @@ local implementation of WSP rapid status assessments across species and areas.
 Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md). The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
 
-[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
-[WSP Status Assessment Approach](./WSP Approach.md)   
-[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)   
-[WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
-[WSP Rapid Status Assessments](./WSP Rapid Status.md)   
-[The Pacific Salmon Status Scanner](./The Scanner.md)  
 
 <br>
 
