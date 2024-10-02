@@ -2,12 +2,7 @@
 <h1> Welcome to the State of the Salmon Program!</h1>
 <h4> Fisheries & Oceans Canada</h4>
 <br>
-[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
-[WSP Status Assessment Approach](./WSP Approach.md)   
-[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)   
-[WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
-[WSP Rapid Status Assessments](./WSP Rapid Status.md)   
-[The Pacific Salmon Status Scanner](./The Scanner.md)  
+
 
 <h3> Acknowledgements</h3>
 DFO's state of the salmon program humbly and respectfully acknowledge that we live and conduct our work on the unceded traditional territories of the xʷməθkʷəy̓ əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səlilwətaɬ (Tsleil-Waututh) Nations. We acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems. 
@@ -15,6 +10,15 @@ DFO's state of the salmon program humbly and respectfully acknowledge that we li
 The foundation of DFO's State of the Salmon work is collaboration. We rely on the data, knowledge and wisdom of DFO staff, Indigenous groups, scientists,  consultants and NGO's on Pacific Salmon and their ecosystems. We recognize the data we apply comes from the knowledge, dedication, and extremely hard work of individuals as they conduct challenging field work in all environmental conditions, and meticulous data entry and analyses. The foundation of these western science stock assessment projects comes from Indigenous knowledge of salmon, and their distributions over time and space. The extent of the data available and the richness of the associated salmon knowledge comes from the vital importance of salmon to Indigenous Peoples, and to the economic and ecological values of people in British Columbia and the Yukon. 
 
 These data are the foundation for all the analyses being done to support salmon resource management, including the DFO's Wild Salmon Policy (WSP) status assessments. The algorithms we have developed to assess status can automate some steps, however, these were developed based on expertise on what data to use and how to use it, and the knowledge and expertise to interpret any results produced. The state of the salmon work could not occur without the input, guidance, and support of many individuals and groups. We do not present results until they have been approved by these experts, and any narratives written about the results are developed with experts.
+
+<h3> Contents </h3>
+
+[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
+[WSP Status Assessment Approach](./WSP Approach.md)   
+[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)   
+[WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
+[WSP Rapid Status Assessments](./WSP Rapid Status.md)   
+[The Pacific Salmon Status Scanner](./The Scanner.md)  
 
 <h3> What do we do?</h3>
 
