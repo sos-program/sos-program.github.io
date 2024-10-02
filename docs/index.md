@@ -12,6 +12,7 @@ The foundation of DFO's State of the Salmon work is collaboration. We rely on th
 These data are the foundation for all the analyses being done to support salmon resource management, including the DFO's Wild Salmon Policy (WSP) status assessments. The algorithms we have developed to assess status can automate some steps, however, these were developed based on expertise on what data to use and how to use it, and the knowledge and expertise to interpret any results produced. The state of the salmon work could not occur without the input, guidance, and support of many individuals and groups. We do not present results until they have been approved by these experts, and any narratives written about the results are developed with experts.
 <br>
 
+
 <h3> Contents </h3>
 
 [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
