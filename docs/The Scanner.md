@@ -9,7 +9,7 @@ Current versions:
 **Scanner: 1.3.1**
 **Data: 0.4.1**
 
-We only include data and Scanner results that have gone through a rigorous review with DFO Stock Assessment CU experts. Only after their approval do we include in the Scanner for public use. Organizing the data for WSP status work, and setting up specification files for the algorithm, are a lengthy iterative process with DFO Area experts. We have additional processes to gain input to build narratives for WSP status assessments, particularly those required for implementation of the Fisheries Act LRP, where a stock manageement unit is below the LRP if one or more CUs is in the Red status zone, as determined through standardized WSP status methods.
+We only include data and Scanner results that have gone through a rigorous review with DFO Stock Assessment CU experts. Only after their approval do we include in the Scanner for public use. Organizing the data for WSP status work, and setting up specification files for the algorithm, are a lengthy iterative process with DFO Area experts. We have additional processes to gain input to build narratives for WSP status assessments, particularly those required for implementation of the Fisheries Act Limit Reference Points, where a stock management unit is below the LRP if one or more CUs is in the Red status zone, as determined through standardized WSP status methods.
 
 There are three core principles of the WSP rapid status approach that is the foundation of the Scanner:
 
