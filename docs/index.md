@@ -20,6 +20,7 @@ These data are the foundation for all the analyses being done to support salmon 
 [WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
 [WSP Rapid Status Assessments](./WSP Rapid Status.md)   
 [The Pacific Salmon Status Scanner](./The Scanner.md)  
+[The Scanner Video Series](./Scanner Videos.md)  
 <br>
 <h3> What do we do?</h3>
 
