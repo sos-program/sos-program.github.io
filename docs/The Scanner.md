@@ -29,6 +29,4 @@ In DFO's Salmon Scanner, rapid statuses should be interpreted as akin to a ‘ch
 
 The Scanner will be rolled out gradually over the coming months to DFO and external salmon technical experts, through individual and group sessions. Additional Pacific salmon CUs will be added to the Scanner as application of the WSP rapid status algorithm is expanded.
 
-<br>
-
 See how the Scanner works by watching our [Scanner video series](./Scanner Videos.md).
