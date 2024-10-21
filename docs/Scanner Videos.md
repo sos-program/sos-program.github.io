@@ -10,7 +10,7 @@
 
 <br>
 
-### Module 2: Mapping (8:34 minutes)
+### Module 2: Mapping (9:00 minutes)
 
 <video id="module2" controls="" width="800" height="500" muted="" loop="">
 <source src="./assets/videos/DFO Salmon Scanner Module 2 Mapping (8 min) (crop) Oct 2024.mp4" type="video/mp4">
