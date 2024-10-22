@@ -9,6 +9,8 @@ The Scanner can also be used to support integration of WSP rapid status informat
 ## Access to the Scanner
 Note as of **October 22 2024** we are using a **phased approach** to provide access to the Scanner. At this time we are providing a focused DFO group in the Fraser-Interior Area (FIA) stock assessment group with access to the Scanner over the next month. After that time we will roll out to broader DFO groups first, and then our final phase will shift to First Nations and other external groups for access.
 
+Additional Pacific salmon CUs will be added to the Scanner as application of the WSP rapid status algorithm is expanded. A number of CU groups are in progress and will be available in coming months.
+
 ## Version Control
 We use version control for both the Scanner, and separately the data included. We recommend citing DFO's Salmon Scanner version and Data version you are using when presenting information in presentations or publications, to support the transparency and repeatability aspects of the scientific process.
 Current versions:
@@ -26,6 +28,7 @@ There are three core principles of the WSP rapid status approach that is the fou
 
 3. Continual learning & refinement. As we continue to add CUs through expert-driven vetting and review, we will continue to learn and refine the WSP rapid status approach going forward, as required.
 
+## Scanner Applications: Who was it designed for? What is the Scanner used for?
 The Salmon Scanner was designed by salmon experts to support their work, and to support decision-making processes. This tool enables users to compare WSP statuses and trends in statuses or abundances across Pacific salmon CUs in BC and the Yukon. The tool includes a selection of built-in data visualizations designed to aid in scientific discovery, support decision-making processes, and support communications to various audiences. 
 
 In addition to statuses, DFO’s Salmon Scanner presents supplementary information that allows technical experts to explore trends across CUs on different spatial, temporal, biological, and management-based levels of aggregation.
@@ -34,6 +37,5 @@ Experts that may benefit from the Scanner include stock assessment biologists, h
 
 In DFO's Salmon Scanner, rapid statuses should be interpreted as akin to a ‘check engine light’, or other diagnostic tool that can highlight potential issues and be used to monitor trends through informal coastwide status scans. In decision-making contexts, WSP rapid statuses are combined with expert input and are peer-reviewed to ensure their validity. Such an expert review process is being used to support status evaluations for stock management units against their limit reference-points (LRP), as legally required under the modernized Fisheries Act (2019).
 
-The Scanner will be rolled out gradually over the coming months to DFO and external salmon technical experts, through individual and group sessions. Additional Pacific salmon CUs will be added to the Scanner as application of the WSP rapid status algorithm is expanded.
 
 See how the Scanner works by watching our [Scanner video series](./Scanner Videos.md).
