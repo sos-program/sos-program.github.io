@@ -27,7 +27,7 @@ There are three core principles of the WSP rapid status approach that is the fou
 3. Continual learning & refinement. As we continue to add CUs through expert-driven vetting and review, we will continue to learn and refine the WSP rapid status approach going forward, as required.
 
 ## Scanner Applications: Who was it designed for? What is the Scanner used for?
-The Salmon Scanner was designed by salmon experts to support their work, and to support decision-making processes. This tool enables users to compare WSP statuses and trends in statuses or abundances across Pacific salmon CUs in BC and the Yukon. The tool includes a selection of built-in data visualizations designed to aid in scientific discovery, support decision-making processes, and support communications to various audiences. 
+The Salmon Scanner was designed by salmon experts to support their work, and to support decision-making processes. This tool enables users to compare WSP statuses and trends in statuses or abundances across Pacific salmon CUs in BC and the Yukon. The tool includes a selection of built-in data visualizations designed to aid in scientific discovery, support decision-making processes, and support communications to various audiences. The Scanner is not designed for the general public, though outputs will be used for DFO's state of the salmon reporting, and by other scientists and biologists for science communications that make Scanner and other scientific results accessible broadly.
 
 In addition to statuses, DFO’s Salmon Scanner presents supplementary information that allows technical experts to explore trends across CUs on different spatial, temporal, biological, and management-based levels of aggregation.
 
