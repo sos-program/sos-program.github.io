@@ -11,6 +11,8 @@ The foundation of DFO's State of the Salmon work is collaboration. We rely on th
 
 These data are the foundation for all the analyses being done to support salmon resource management, including the DFO's Wild Salmon Policy (WSP) status assessments. The algorithms we have developed to assess status can automate some steps, however, these were developed based on expertise on what data to use and how to use it, and the knowledge and expertise to interpret any results produced. The state of the salmon work could not occur without the input, guidance, and support of many individuals and groups. We do not present results until they have been approved by these experts, and any narratives written about the results are developed with experts.
 
+The Scanner was designed with input and testing across DFO Sectors, including Science-Area stock assessment, Science-research, Salmonid Enhancement Program (SEP), Fisheries Management, Species at Risk Act, and external staff at the Pacific Salmon Commission. We began with a questionnaire on what staff needed to do their work most effectively, but currently don't have the tools or information to do this. Then through these interviews we identified key priorities to include in the Scanner, and began design work. We developed wire-frame versions, and then moved to Shiny R after basic testing proved successful with users across DFO Sectors. As internal and external experts gain access we will continue to expand and refine the functionality, similar to any software or app we use on our computers and phones. 
+
 <br>
 <h3> Contents </h3>
 
