@@ -37,3 +37,4 @@ In DFO's Salmon Scanner, rapid statuses should be interpreted as akin to a ‘ch
 
 ### See how the Scanner works by watching our [Scanner video series](./Scanner Videos.md).
 #### [Previous Page](./WSP Rapid Status.md)
+#### [Back to Start](./index.md)
