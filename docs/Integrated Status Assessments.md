@@ -33,4 +33,4 @@ The third approach to determining integrated statuses delivers on the escalating
 We refer to decision-tree-derived statuses as WSP Rapid Statuses to differentiate these from WSP Integrated Statuses determined through expert-driven workshops. 
 
 
-####Next Page: [WSP Rapid Statuses](./WSP Rapid Status.md) 
+#### Next Page: [WSP Rapid Statuses](./WSP Rapid Status.md) 
