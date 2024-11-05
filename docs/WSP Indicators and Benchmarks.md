@@ -88,5 +88,5 @@ Where this type of ancillary information is particularly important, however, is 
 
 
 #### Next Page: [Integrating metrics into WSP statuses](./Integrated Status Assessments.md)
-#### [Previous Page] (./WSP Approach.md)
+#### [Previous Page](./WSP Approach.md)
 
