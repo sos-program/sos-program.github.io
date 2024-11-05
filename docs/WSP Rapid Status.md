@@ -49,6 +49,6 @@ of this decision tree and the data processes that surround it. The WSP rapid sta
 WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md) once fully reviewed. The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
 
-[Next Page: The Pacific Salmon Status Scanner](./The Scanner.md) 
+####Next Page: [The Pacific Salmon Status Scanner](./The Scanner.md) 
 
 
