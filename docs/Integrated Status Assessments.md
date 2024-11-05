@@ -34,4 +34,4 @@ We refer to decision-tree-derived statuses as WSP Rapid Statuses to differentiat
 
 
 #### Next Page: [WSP Rapid Statuses](./WSP Rapid Status.md) 
-#### [Previous Page] (./WSP Indicators and Benchmarks.md)
+#### [Previous Page](./WSP Indicators and Benchmarks.md)
