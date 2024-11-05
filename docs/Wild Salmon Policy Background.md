@@ -55,7 +55,7 @@ The application of the metric toolkit alone does not result in completed WSP sta
 The final step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics, along with standardized data packages on abundance and status time series, into a single WSP status for each CU. 
 
 
-[Next Page: WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
+#### Next Page: [WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
 
 
 
