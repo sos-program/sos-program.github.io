@@ -17,10 +17,6 @@ calculated, the [WSP integrated status assessment process](./Integrated Status A
 WSP integrated status assessments have been conducted for Fraser Sockeye ([Grant et al. 2011, Grant & Pestal 2012, Grant et al. 2020](./References.md)), 
 Interior Fraser Coho ([DFO 2015](./References.md)), and Southern BC Chinook ([DFO 2016](./References.md)). 
 
-
-#### Next Page: [WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
-#### [Previous Page](./index.md)
-
 <br>
 
 #### The following papers detail the development and early application of the WSP status assessment toolkit:
@@ -33,3 +29,6 @@ status and benchmarks for Conservation Cnits in Canada’s Wild Salmon Policy. D
 
 <a href="">Grant, S.C.H., MacDonald, B.L., Cone, T.E., Holt, C.A., Cass, A., Porszt, E.J., Hume, J.M.B., Pon, L.B. (2011). Evaluation of uncertainty in Fraser Sockeye 
 <i>(Oncorhynchus nerka)</i> Wild Salmon Policy status using abundance and trends in abundance metrics. DFO. Can. Sci. Advis. Sec. Res. Doc. 2011/087. viii + 183 p.</a> 
+
+#### Next Page: [WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
+#### [Previous Page](./index.md)
