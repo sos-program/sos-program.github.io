@@ -50,5 +50,6 @@ WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The
 
 
 #### Next Page: [The Pacific Salmon Status Scanner](./The Scanner.md) 
+#### [Previous Page] (./Integrated Status Assessments.md)
 
 
