@@ -77,4 +77,4 @@ As environmental conditions continue to change, adapting our salmon management s
 
 <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">Climate change adaptation for Pacific salmon</a>. 
  
-### Next Page:[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
+## Next Page: [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md)   
