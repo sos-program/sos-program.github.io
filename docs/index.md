@@ -14,6 +14,7 @@
 
 [In Development: Best Practices for WSP Status Assessments & WSP Status Data](./WSP Status Best Practices.md)
 
+
 <h3> Acknowledgements</h3>
 DFO's state of the salmon program humbly and respectfully acknowledge that we live and conduct our work on the unceded traditional territories of the xʷməθkʷəy̓ əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səlilwətaɬ (Tsleil-Waututh) Nations. We acknowledge that Indigenous Peoples have been stewards of the land and water since time immemorial, and we honour their deep understanding of the interconnectedness between people and natural systems. 
 
