@@ -24,9 +24,8 @@ We also acknowledge that the Salmon Scanner that presents WSP rapid statuses and
 [The Pacific Salmon Status Scanner](./The Scanner.md)  
 [The Scanner Video Series](./Scanner Videos.md) 
 
-[Best Practices for WSP Status Assessments](./WSP Status Best Practices.md)
-
-[WSP Status Data](./WSP status data)
+[Best Practices for WSP Status Assessments: In development](./WSP Status Best Practices.md)
+[WSP Status Data: In Development](./WSP status data)
 <br>
 <h3> What do we do?</h3>
 
