@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1250px;
+  width:860px;
   // left side is 270; padding is 50
   // 1250-270-50 = 930
   // 30px free room
@@ -11,14 +11,14 @@
 }
 
 header {
-  width:300px;
+  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
-  width:870px;
+  width:500px;
   float:right;
   padding-bottom:50px;
   padding-left:50px;
