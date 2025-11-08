@@ -2,20 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-.wrapper {
-  width:860px;
-  // left side is 270; padding is 50
-  // 1250-270-50 = 930
-  // 30px free room
-  margin:0 auto;
-}
 
-
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#2B5C92;
