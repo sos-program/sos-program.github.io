@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <br>
 <h1> Welcome to the State of the Salmon Program!</h1>
 <h4> Fisheries & Oceans Canada</h4>
